@@ -1,2 +1,15 @@
-.idea/
-venv/
+# >_ ide
+/.idea
+
+# >_ virtual env
+/venv
+
+# >_ python specific
+*.pyc
+
+# >_ setuptools
+/dist/
+/build/
+/*.egg-info
+/.eggs
+
