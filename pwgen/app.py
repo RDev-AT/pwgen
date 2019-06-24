@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
     # dictionary_file
     # dictionary_file = path/to/custom/source.txt
-    dictionary_file = "sources/german.txt"
+    dictionary_file = "sources/english.txt"
 
     # dictionary_type
     # options :

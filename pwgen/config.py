@@ -12,7 +12,7 @@ class Config(object):
 
     # dictionary
     dictionary_file = None
-    dictionary_file_default = os.path.join(Const.ROOTDIR, "sources/german.txt")
+    dictionary_file_default = os.path.join(Const.ROOTDIR, "sources/english.txt")
 
     dictionary_type = None
     dictionary_type_default = "text"
